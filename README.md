@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m currently working as a Staff Software Engineer at @nubank  
+💬 Ask me about:   
+    - Functional Programming.  
+    - Building and Growing Engineering teams.  
+    - Multicountry product.  
+📫 How to reach me: francisco@hernandezg.io
 <!--
 **fjhernandezdev/fjhernandezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
